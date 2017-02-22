@@ -1,0 +1,13 @@
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe.config
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.pdb
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csprojResolveAssemblyReference.cache
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.ConsignmentShop.resources
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.Properties.Resources.resources
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.Cache
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.exe
+c:\users\kazi\documents\visual studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.pdb
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\bin\Debug\consignmentShopLibrary.dll
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\bin\Debug\consignmentShopLibrary.pdb
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.splash.resources
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.VendorShow.resources

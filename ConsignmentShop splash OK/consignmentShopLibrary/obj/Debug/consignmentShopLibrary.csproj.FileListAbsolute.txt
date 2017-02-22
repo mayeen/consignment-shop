@@ -1,0 +1,5 @@
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\consignmentShopLibrary\bin\Debug\consignmentShopLibrary.dll
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\consignmentShopLibrary\bin\Debug\consignmentShopLibrary.pdb
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\consignmentShopLibrary\obj\Debug\consignmentShopLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\consignmentShopLibrary\obj\Debug\consignmentShopLibrary.dll
+C:\Users\Kazi\Documents\Visual Studio 2013\Projects\ConsignmentShop\consignmentShopLibrary\obj\Debug\consignmentShopLibrary.pdb
